@@ -1,2 +1,2 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+Link to [website](https://www.mtu.edu/cs/undergraduate/software/what/)
+This website introduces everything that is presented in the business of software engineering. Besides introducing concepts, There are places showing where techniques can be used within different industries.
